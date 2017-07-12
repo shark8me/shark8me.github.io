@@ -1,0 +1,12 @@
+#+TITLE:       hello world
+#+AUTHOR:      kiran
+#+EMAIL:       kiran@kiran-ThinkPad-L460
+#+DATE:        2017-07-12 Wed
+#+URI:         /blog/%y/%m/%d/hello-world
+#+KEYWORDS:    <TODO: insert your keywords here>
+#+TAGS:        <TODO: insert your tags here>
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: hello world
+
+This is a test post, the first
